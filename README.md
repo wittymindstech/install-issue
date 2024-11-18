@@ -1,4 +1,5 @@
 
+Download [Openssl3.0.2](https://openssl-library.org/source/old/3.0/index.html) from this  [link](https://openssl.org/source/old/3.0/openssl-3.0.2.tar.gz))
 Download tar.gz and extract it and $cd openssl-3.2.0
 
 Also, run below commands to compile and install openssl in Mac
