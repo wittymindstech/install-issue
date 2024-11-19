@@ -30,5 +30,5 @@ Forwarding from 127.0.0.1:8443 -> 9001
 
 
 To complete the mariadb-operator installation, please now proceed to install the
-[mariadb-operator chart] (https://github.com/mariadb-operator/mariadb-operator?tab=readme-ov-file#helm-installation):
+[mariadb-operator chart](https://github.com/mariadb-operator/mariadb-operator?tab=readme-ov-file#helm-installation)
 
