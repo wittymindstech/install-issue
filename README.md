@@ -32,3 +32,5 @@ Forwarding from 127.0.0.1:8443 -> 9001
 To complete the mariadb-operator installation, please now proceed to install the
 [mariadb-operator chart](https://github.com/mariadb-operator/mariadb-operator?tab=readme-ov-file#helm-installation)
 
+[minio-secret file]([https://github.com/mariadb-operator/mariadb-operator?tab=readme-ov-file#helm-installation](https://github.com/mariadb-operator/mariadb-operator/blob/ad61c61dc59e37b9468c8efc722b1d94a463dada/examples/manifests/config/minio-secret.yaml)
+
