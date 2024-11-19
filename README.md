@@ -27,3 +27,8 @@ minio-console   LoadBalancer   10.96.136.136   <pending>     9001:32555/TCP   3m
 
 `kubectl port-forward -n minio service/minio-console 8443:9001`
 Forwarding from 127.0.0.1:8443 -> 9001
+
+
+To complete the mariadb-operator installation, please now proceed to install the
+[mariadb-operator chart] (https://github.com/mariadb-operator/mariadb-operator?tab=readme-ov-file#helm-installation):
+
